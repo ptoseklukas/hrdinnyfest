@@ -6,7 +6,7 @@
     <title>Lenochův průvodce worldbuildingem</title>
     <annotation>Přednáška se zaměřuje se na praktické způsoby, jak tvořit a popisovat herní svět tak, aby byl živý, uvěřitelný a přitom šitý na míru konkrétní skupině hráčů. Ukážeme si, jak svět spoluutvářet společně s hráči, jak rozdělit vedení mezi více vypravěčů bez chaosu, a jak si udržet přehled i bez kilometrů zápisků. Přednáška nabídne tipy, jak si práci zjednodušit, jak se vyhnout vyhoření a jak zůstat tvůrčím, i když jste spíš líní než systematičtí.</annotation>
     <start-time>2025-10-11T10:00:00+02:00</start-time>
-    <end-time>2025-10-11T11:55:00+02:00</end-time>
+    <end-time>2025-10-11T12:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
   </programme>
@@ -16,7 +16,7 @@
     <title>AI kyberpunk a realita</title>
     <annotation>Umělá inteligence, je nedílným aspektem kyberpunkového žánru, Jak si AI představovali velikáni jako William Gibson, Neal Stephenson, nebo Bruce Sterling. Na kolik se liší od té, se kterou se sektáváme dnes? A máme se umělé inteligence bát? Ovládne nás?</annotation>
     <start-time>2025-10-11T12:00:00+02:00</start-time>
-    <end-time>2025-10-11T12:55:00+02:00</end-time>
+    <end-time>2025-10-11T13:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
   </programme>
@@ -26,7 +26,7 @@
     <title>Bude doplněno</title>
     <annotation>Bude doplněno</annotation>
     <start-time>2025-10-11T13:00:00+02:00</start-time>
-    <end-time>2025-10-11T13:55:00+02:00</end-time>
+    <end-time>2025-10-11T14:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
   </programme>
@@ -42,7 +42,7 @@ V druhé části si v praxi s bezpečnými, ač realistickými pomůckami si ote
 
 Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete, leda poznámkář."</annotation>
     <start-time>2025-10-11T14:00:00+02:00</start-time>
-    <end-time>2025-10-11T14:55:00+02:00</end-time>
+    <end-time>2025-10-11T15:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
   </programme>
@@ -52,7 +52,7 @@ Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete
     <title>Byli kdysi video hry lepší?</title>
     <annotation>Nostalgie nám často našeptává, že „za starých časů“ byly hry zábavnější, originálnější a upřímnější. Ale je to skutečně pravda, nebo jen kouzlo vzpomínek? V přednášce se podíváme na proměnu videoher od jejich začátků až po současnost – od technologií a designu po hráčské zážitky – a zkusíme odpovědět na otázku, zda hry opravdu ztratily své kouzlo, nebo se jen vyvíjejí spolu s námi.</annotation>
     <start-time>2025-10-11T15:00:00+02:00</start-time>
-    <end-time>2025-10-11T15:55:00+02:00</end-time>
+    <end-time>2025-10-11T16:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
   </programme>
@@ -68,7 +68,7 @@ V druhé části si v praxi s bezpečnými, ač realistickými pomůckami si ote
 
 Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete, leda poznámkář."</annotation>
     <start-time>2025-10-11T18:00:00+02:00</start-time>
-    <end-time>2025-10-11T18:55:00+02:00</end-time>
+    <end-time>2025-10-11T19:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
   </programme>
@@ -78,7 +78,7 @@ Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete
     <title>Jak se recenzuje RPGčko?</title>
     <annotation>Chcete nahlédnout pod pokličku recenzování RPG? Tak to jste na správném místě. Podíváme se na to, jak vůbec se taková hra shání. Jaké to vůbec je, střídat knihu za knihou, učit se systémy a následně o nich psát. Co je na tom vlastně nejlepší, nejhorší a nejzábavnější? Taky to, proč jsou podle mě RPG snad to nejhorší, co může člověk na recenzi dostat a taky, proč mě to i po letech tak strašně baví.</annotation>
     <start-time>2025-10-11T19:00:00+02:00</start-time>
-    <end-time>2025-10-11T19:55:00+02:00</end-time>
+    <end-time>2025-10-11T20:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
   </programme>
@@ -373,26 +373,6 @@ Ať tak nebo tak, jste zde – a Vaše kariéra zhasla jako svíčka. Jediná v�
     <end-time>2025-10-12T13:00:00+02:00</end-time>
     <type>Hraní</type>
     <location>Salon 1</location>
-  </programme>
-  <programme>
-    <pid>26</pid>
-    <author />
-    <title />
-    <annotation />
-    <start-time>2025-10-12T09:00:00+02:00</start-time>
-    <end-time>2025-10-12T13:00:00+02:00</end-time>
-    <type>Hraní</type>
-    <location>Salon 2</location>
-  </programme>
-  <programme>
-    <pid>27</pid>
-    <author />
-    <title />
-    <annotation />
-    <start-time>2025-10-12T09:00:00+02:00</start-time>
-    <end-time>2025-10-12T13:00:00+02:00</end-time>
-    <type>Hraní</type>
-    <location>Sklep</location>
   </programme>
   <programme>
     <pid>28</pid>
