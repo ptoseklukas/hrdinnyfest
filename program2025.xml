@@ -1,6 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <annotations>
   <programme>
+    <pid>91</pid>
+    <author>Rovan</author>
+    <title>Lenochův průvodce worldbuildingem</title>
+    <annotation>Přednáška se zaměřuje se na praktické způsoby, jak tvořit a popisovat herní svět tak, aby byl živý, uvěřitelný a přitom šitý na míru konkrétní skupině hráčů. Ukážeme si, jak svět spoluutvářet společně s hráči, jak rozdělit vedení mezi více vypravěčů bez chaosu, a jak si udržet přehled i bez kilometrů zápisků. Přednáška nabídne tipy, jak si práci zjednodušit, jak se vyhnout vyhoření a jak zůstat tvůrčím, i když jste spíš líní než systematičtí.</annotation>
+    <start-time>2025-10-11T10:00:00+02:00</start-time>
+    <end-time>2025-10-11T11:55:00+02:00</end-time>
+    <type>P</type>
+    <location>Hlavní sál</location>
+  </programme>
+  <programme>
+    <pid>92</pid>
+    <author>Kybersova</author>
+    <title>AI kyberpunk a realita</title>
+    <annotation>Umělá inteligence, je nedílným aspektem kyberpunkového žánru, Jak si AI představovali velikáni jako William Gibson, Neal Stephenson, nebo Bruce Sterling. Na kolik se liší od té, se kterou se sektáváme dnes? A máme se umělé inteligence bát? Ovládne nás?</annotation>
+    <start-time>2025-10-11T12:00:00+02:00</start-time>
+    <end-time>2025-10-11T12:55:00+02:00</end-time>
+    <type>P</type>
+    <location>Hlavní sál</location>
+  </programme>
+  <programme>
+    <pid>93</pid>
+    <author>Nord</author>
+    <title>Bude doplněno</title>
+    <annotation>Bude doplněno</annotation>
+    <start-time>2025-10-11T13:00:00+02:00</start-time>
+    <end-time>2025-10-11T13:55:00+02:00</end-time>
+    <type>P</type>
+    <location>Hlavní sál</location>
+  </programme>
+  <programme>
+    <pid>95</pid>
+    <author>Želvák</author>
+    <title>Taktiky vypravěče aneb jak okořenit každý příběh</title>
+    <annotation>V přednášce probereme nejčastější technologie boje chladnou i palnou zbraní z pohledu blízkého boje a… především jejich barvitého a přitom jednoduchého popisu. Ukážeme si na příkladech, jak lze pomocí pár vět a jednoho či dvou atmosférických „tajemných“ termínů vytvořit spoluhráčům orgii drsného boje boje. Navazujeme na společný projekt se Sirienem „Bojové popisy v RPG“.
+
+V druhé části si v praxi s bezpečnými, ač realistickými pomůckami si otestujeme techniky boje zblízka, které budeme popisovat a provádět a naopak. Podíváme se jak vypadá návaznost pohybů v popisu i reakce na dění na stole. Odtajníme cca desítku termínů vysokého i podlého šermu.
+„…a hrozně se sekyrou napřáhnu, ale to je pro zmatení, ve skutečnosti ho v téhle vzdálenosti naperu kopem na břicho!“ řekl Barbar Hrom Bác.
+„Když kryje, tak v poslední chvíli přetočím ostří kolem krytu a bodnu rapírem do žaludku!“ prohlásil mistr šermíř Salvatore von Picham.
+
+Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete, leda poznámkář."</annotation>
+    <start-time>2025-10-11T14:00:00+02:00</start-time>
+    <end-time>2025-10-11T14:55:00+02:00</end-time>
+    <type>P</type>
+    <location>Hlavní sál</location>
+  </programme>
+  <programme>
+    <pid>96</pid>
+    <author>Mrkew</author>
+    <title>Byli kdysi video hry lepší?</title>
+    <annotation>Nostalgie nám často našeptává, že „za starých časů“ byly hry zábavnější, originálnější a upřímnější. Ale je to skutečně pravda, nebo jen kouzlo vzpomínek? V přednášce se podíváme na proměnu videoher od jejich začátků až po současnost – od technologií a designu po hráčské zážitky – a zkusíme odpovědět na otázku, zda hry opravdu ztratily své kouzlo, nebo se jen vyvíjejí spolu s námi.</annotation>
+    <start-time>2025-10-11T15:00:00+02:00</start-time>
+    <end-time>2025-10-11T15:55:00+02:00</end-time>
+    <type>P</type>
+    <location>Hlavní sál</location>
+  </programme>
+  <programme>
+    <pid>98</pid>
+    <author>Robert Waschka</author>
+    <title>Jak popisovat bojové scény v RPG</title>
+    <annotation>přednášce probereme nejčastější technologie boje chladnou i palnou zbraní z pohledu blízkého boje a… především jejich barvitého a přitom jednoduchého popisu. Ukážeme si na příkladech, jak lze pomocí pár vět a jednoho či dvou atmosférických „tajemných“ termínů vytvořit spoluhráčům orgii drsného boje boje. Navazujeme na společný projekt se Sirienem „Bojové popisy v RPG“.
+
+V druhé části si v praxi s bezpečnými, ač realistickými pomůckami si otestujeme techniky boje zblízka, které budeme popisovat a provádět a naopak. Podíváme se jak vypadá návaznost pohybů v popisu i reakce na dění na stole. Odtajníme cca desítku termínů vysokého i podlého šermu.
+„…a hrozně se sekyrou napřáhnu, ale to je pro zmatení, ve skutečnosti ho v téhle vzdálenosti naperu kopem na břicho!“ řekl Barbar Hrom Bác.
+„Když kryje, tak v poslední chvíli přetočím ostří kolem krytu a bodnu rapírem do žaludku!“ prohlásil mistr šermíř Salvatore von Picham.
+
+Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete, leda poznámkář."</annotation>
+    <start-time>2025-10-11T18:00:00+02:00</start-time>
+    <end-time>2025-10-11T18:55:00+02:00</end-time>
+    <type>P</type>
+    <location>Hlavní sál</location>
+  </programme>
+  <programme>
+    <pid>99</pid>
+    <author>GorSilverarm</author>
+    <title>Jak se recenzuje RPGčko?</title>
+    <annotation>Chcete nahlédnout pod pokličku recenzování RPG? Tak to jste na správném místě. Podíváme se na to, jak vůbec se taková hra shání. Jaké to vůbec je, střídat knihu za knihou, učit se systémy a následně o nich psát. Co je na tom vlastně nejlepší, nejhorší a nejzábavnější? Taky to, proč jsou podle mě RPG snad to nejhorší, co může člověk na recenzi dostat a taky, proč mě to i po letech tak strašně baví.</annotation>
+    <start-time>2025-10-11T19:00:00+02:00</start-time>
+    <end-time>2025-10-11T19:55:00+02:00</end-time>
+    <type>P</type>
+    <location>Hlavní sál</location>
+  </programme>
+  <programme>
     <pid>1</pid>
     <author>Tomislav</author>
     <title>Black Powder and Brimstone</title>
@@ -89,9 +171,13 @@ Systém Cats of Catthulhu je přizpůsobený hraní za kočky v lidském světě
   </programme>
   <programme>
     <pid>8</pid>
-    <author>Mrkew?</author>
-    <title />
-    <annotation>Nějakým zázrakem se vaše povedená skupinka gobliních pirátů dostala pod křídla kapitána Blechovouse. Ikdyž nerad, tak vám zadá úkol v hledání částí mapy k pokladu. Nalodíte se tedy na vaši stále se potápějící se loď a vzhůru za dobrodružstvím. Hra bude v systému Dračí Hlídky, postavy jsou předpřipravené.</annotation>
+    <author>Mrkew</author>
+    <title>Poslední den na Hadley's Hope</title>
+    <annotation>Vystoupíte z přechodové komory na stanici Hadley’s Hope na měsíci LV-426. Je tu naprosté ticho, chybí hukot strojů a šepot obyvatel. Něco tu však JE… Ale co?
+
+Alien RPG je svět plný hororu a korporátních šarvátek, kde si androidi hrají na bohy, zatímco vesmírní kamioňáci a mariňáci hostí nově narozené děsivé bytosti. Je to drsný a nelítostný vesmír a vy nejste nic jiného než postradatelní. Pravidla jsou postavena na Year Zero systému, použitém například v Zapovězených zemích. Postavy budou připraveny předem.
+
+Vhodné pro nováčky. Znalost pravidel není nutná. Angličtina výhodou (některé věci budou anglicky). Hodí se mít zásobu šestistěnných kostek, ale není nutná. Jedná se o dobrodružství ze základní příručky. Pozor! Hra může být konfliktní i mezi hráči.</annotation>
     <start-time>2025-10-11T09:00:00+02:00</start-time>
     <end-time>2025-10-11T13:00:00+02:00</end-time>
     <type>Hraní</type>
@@ -110,7 +196,7 @@ Na začátku si vyberete za koho budete chtít hrát, kde začnete a co bude va�
   </programme>
   <programme>
     <pid>10</pid>
-    <author>Gor</author>
+    <author>GorSilverarm</author>
     <title>Za nepřátelskou linií</title>
     <annotation>Jste experti na infiltraci a eliminaci cílů. Zkráceně nájemní zabijáci. Tentokrát vás čeká zakázka, která by vás mohla s klidem poslat na předčasný důchod nebo do márnice. Jste na cestě do Kolumbie, kde se má sejít jeden z největších překupníků zbraní známý jen jako Zbrojíř a největší zdejší drogový lord Leon Calderon. Na místě setkání bude menší armáda, všichni budou připravení na jakýkoliv problém a budete bez podpory. Jenže to je váš denní chleba.
 
@@ -133,8 +219,12 @@ Vžijete se do předpřipravených archetypů akčních hrdinů. Budete bojovat 
   <programme>
     <pid>12</pid>
     <author>Sniper</author>
-    <title />
-    <annotation />
+    <title>WH40K: Příchod zkázy</title>
+    <annotation>Hvězdná soustava Sparetan má svých potíží dost – kult boha chaosu Nurgleho byl sice odhalen před dokončením velkého rituálu, ale rozhodně se jen tak nevzdá. V hlavním městě probíhají těžké boje a velitel planetární obrany má co dělat, aby udržel morálka svých vojáků. V audienční síni místního guvernéra je ale ticho – které je přerušeno kroky přicházejícího psykera. Modulovaným hlasem z vox-projektoru na své masce pronáší věštbu o přicházející zkáza – proti které je místní kult chaosu jen dětskou hříčkou.
+
+Kdo budou hybatelé děje v soustavě Sparetan? Jak se postaví nadcházející katastrofě? RPG za bandu dobrodruhů už bylo tuny, pojďte si raději zahrát hry mocných! Ať za guvernéra řídícího celou planetární obranu, orčího kapitána, kterému posádka dorůstá jak houby (doslova!) po dešti, eldařího černokněžníka na tajné misi či další významné osoby.
+
+Pravidla i svět bude vysvětlen na hře. Neznalost Warhammeru 40.000 není na závadu – některé postavy se spoléhají víc na své rádce než na vlastní vědomosti. Základ postav je připraven, budete si je ale moci doladit dle svých představ a dokonce během hry dostanete i nové schopnosti. Hraje se v mém Powered by the Apocalypse vytvořeném pro potřeby WH40K.</annotation>
     <start-time>2025-10-11T09:00:00+02:00</start-time>
     <end-time>2025-10-11T13:00:00+02:00</end-time>
     <type>Hraní</type>
@@ -176,7 +266,7 @@ Postavy hráčských postav - vyšetřovatelů vytvoříme na místě.</annotati
   </programme>
   <programme>
     <pid>16</pid>
-    <author>Gor</author>
+    <author>GorSilverarm</author>
     <title>The Marvelous Children of Inang-Uri</title>
     <annotation>Svět uzřel neskutečný pohled, po jeho povrchu kráčela obrovská chiméra známá jako Inang-Uri. Na jejím hřbetě se zrodila fantastická civilizace. Jenže jak čas plynul, začala umírat a události, které světem otřásaly, jen urychlovaly její skon. Právě ti, co žili na jejím hřebě, se jí musí pokusit zachránit. Pokud však zrádci v jejich řadách naopak neurychlí její skon.</annotation>
     <start-time>2025-10-11T14:00:00+02:00</start-time>
@@ -306,7 +396,7 @@ Ať tak nebo tak, jste zde – a Vaše kariéra zhasla jako svíčka. Jediná v�
   </programme>
   <programme>
     <pid>28</pid>
-    <author>Gor</author>
+    <author>GorSilverarm</author>
     <title>Pustina</title>
     <annotation>Magie může za půlku průšvihů. To ví přeci každý. Proto je regulovaná a její uživatelé pod pečlivým dohledem. Někdy se ale nepovede všechno, jak má. Jedním takovým důkazem je i Pustina. Místo, kde po poslední velké bitvě mágů nefunguje vůbec nic, jak by mělo. Nikdo se špetkou zdravého rozumu by se tam nevydal. Jenže v poslední době se začala ovlivněná zem rozšiřovat. Císařští vědci zkusili všechno a nic nezabralo. Nadešel čas na zoufalé kroky.
 
@@ -331,8 +421,14 @@ Tvůj nástup očekáváme zítra za rozbřesku před králičí branou.</annota
   <programme>
     <pid>30</pid>
     <author>Sniper</author>
-    <title />
-    <annotation />
+    <title>Neklid v Klidném</title>
+    <annotation>Obchodníci vracející se z vesnice Klidné říkají, že by se měla přejmenovat na Nenávistné. Co se ve vesnici stalo, že se tak změnila?
+
+Farmářská vesnice Klidné je krásným místem pro život. Vyrážíte do ní zkontrolovat domek, co si zde koupil kamarád. Ale ve skutečnosti je to od něj vlastně dárek, máte si zde užít týden klidné dovolené. Jenže vesnice skrývá víc překvapení, než čekáte. Opravdu by si zasložila jméno Nenávistné, nebo obchodníci jen fabulují, aby upoutali pozornost?
+
+Dobrodružství v My Little Pony: Tails of Equestria je podle jednoduchých pravidel, která se snadno vysvětlí přímo ve hře. Na začátku se vytvoří (a namaluje!) postava poníka a následně se s ním vrhneme přímo do příběhu. Je možné si přinést postavu poníka z předchozích her, pokud jste již někde hráli.
+
+Pozor! Jsi-li dívka ve věku 5-10 let, nebo chlapec ve věku 15-35 let, tak poníci jsou vysoce návykoví!</annotation>
     <start-time>2025-10-12T09:00:00+02:00</start-time>
     <end-time>2025-10-12T13:00:00+02:00</end-time>
     <type>Hraní</type>
