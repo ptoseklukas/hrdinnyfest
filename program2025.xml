@@ -23,8 +23,8 @@
   <programme>
     <pid>93</pid>
     <author>Nord</author>
-    <title>Bude doplněno</title>
-    <annotation>Bude doplněno</annotation>
+    <title>Bizárky japonského fast foodu</title>
+    <annotation>Přijďte se pobavit, podivit a možná i inspirovat, co všechno lze nazvat „rychlým občerstvením“ v zemi vycházejícího bizáru.</annotation>
     <start-time>2025-10-11T13:00:00+02:00</start-time>
     <end-time>2025-10-11T14:00:00+02:00</end-time>
     <type>P</type>
@@ -54,6 +54,16 @@ Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete
     <start-time>2025-10-11T15:00:00+02:00</start-time>
     <end-time>2025-10-11T16:00:00+02:00</end-time>
     <type>P</type>
+    <location>Hlavní sál</location>
+  </programme>
+  <programme>
+    <pid>96</pid>
+    <author>Jetty</author>
+    <title>Savage Worlds: systém pro (téměř) jakýkoli svět</title>
+    <annotation>Představení systému Savage Worlds, který lze snadno přizpůsobit různým žánrům i herním stylům. Projdeme úvod do základních mechanik, krátké shrnutí historie, příklady zajímavých vydaných světů s vysvětlením, jak se jim systém přizpůsobuje, aby každý působil osobitým dojmem. Pokud je cílem hra s mírou realismu srovnatelnou s dobrodružným či akčním filmem, Savage Worlds je výborná volba. Zároveň systém podporuje jak narativní přístup, tak i taktické souboje.</annotation>
+    <start-time>2025-10-11T16:00:00+02:00</start-time>
+    <end-time>2025-10-11T17:00:00+02:00</end-time>
+    <type />
     <location>Hlavní sál</location>
   </programme>
   <programme>
@@ -95,7 +105,7 @@ Black Powder &amp; Brimstone je temná fantasy RPG, která hráče zavádí do b
 Hráči se ujímají rolí lovců monster, inkvizitorů, podivínských vědců, žoldáků či prostých vesničanů, kteří se odváží postavit silám, jež by uvrhly svět do chaosu.</annotation>
     <start-time>2025-10-10T18:00:00+02:00</start-time>
     <end-time>2025-10-10T22:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Black Powder and Brimstone</type>
     <location>Salon 1</location>
   </programme>
   <programme>
@@ -105,7 +115,7 @@ Hráči se ujímají rolí lovců monster, inkvizitorů, podivínských vědců,
     <annotation>Za normálních okolností by byla ztráta jednoho domácího skřítka po návštěvě hospody událost, kterou by se nezabývali ani místní noviny. Ale tohle nejsou normální okolnosti. Gaston Lemiel je z velmi vlivné rodiny a navíc se ztratil ve městě La Ruelle v zemi víl. Válka skončila teprve nedávno a je nemálo těch, co jen čekají na příležitost ji začít znovu. Téměř cokoliv může být záminka k opětovnému rozpoutání konfliktu. Takže je OPRAVDU DŮLEŽITÉ aby jste ho našli a aby byl POKUD MOŽNO VCELKU.</annotation>
     <start-time>2025-10-10T18:00:00+02:00</start-time>
     <end-time>2025-10-10T22:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Household</type>
     <location>Salon 2</location>
   </programme>
   <programme>
@@ -116,7 +126,7 @@ Hráči se ujímají rolí lovců monster, inkvizitorů, podivínských vědců,
 Je dobře, že máte skupinu (vybraných) dobrovolníků, kteří budou rádi riskovat svůj život a neohroženě zkoumají neznámé chodby a zákruty stok, připravují vztahy s místními a hledají nezranitelnější místa. Horší je, že se skupina nevrátila a úplně nejhorší je, že jste byli vybráni jako noví dobrovolníci.</annotation>
     <start-time>2025-10-10T18:00:00+02:00</start-time>
     <end-time>2025-10-10T22:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>FATE</type>
     <location>Sklep</location>
   </programme>
   <programme>
@@ -132,7 +142,7 @@ Což takhle si zahrát klasické podzemní dobrodružství – o velkých poklad
 Systém je zjednodušené DnD 5e (původní) a vše nezbytné bude vysvětleno v rámci hry když bude třeba (nebojte se přihlásit, i pokud DnD neznáte). Postavy jsou předpřipravené.</annotation>
     <start-time>2025-10-10T18:00:00+02:00</start-time>
     <end-time>2025-10-10T22:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Dungeons and Dragons</type>
     <location>Šatna</location>
   </programme>
   <programme>
@@ -142,7 +152,7 @@ Systém je zjednodušené DnD 5e (původní) a vše nezbytné bude vysvětleno v
     <annotation>Ve stínech Providence, kde se stará koloniální architektura setkává s temnými ozvěnami minulosti, se začínají objevovat znepokojivé náznaky, že pod městem se skrývá víc než jen zapomenuté sklepy a staré legendy. Místní spisovatel tvrdí, že objevil něco nečekaného ve svém domě – něco, co by mohlo změnit pohled na dávnou historii i současnost města. Vzduch je prosycen tajemstvím, minulost šeptá pod povrchem a odvážní jedinci se brzy ocitnou tváří v tvář nepoznanému.</annotation>
     <start-time>2025-10-10T18:00:00+02:00</start-time>
     <end-time>2025-10-10T22:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Call of Cthulhu</type>
     <location>Zbrojírna</location>
   </programme>
   <programme>
@@ -152,7 +162,7 @@ Systém je zjednodušené DnD 5e (původní) a vše nezbytné bude vysvětleno v
     <annotation>Night City je lákadlem pro mnohé – a stejně tak pro vás, Edgerunnery, kteří chtějí zazářit a stát se hvězdnými žoldnéři. Nejdřív si ale musíte proklestit cestu skrze pouliční kšefty. Tenhle job má být snadný: dostat holku v nesnázích pryč z města dřív, než ji sejme jeden hodně zlý chlápek.</annotation>
     <start-time>2025-10-10T18:00:00+02:00</start-time>
     <end-time>2025-10-10T22:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Cyberpunk Red</type>
     <location>Pracovna</location>
   </programme>
   <programme>
@@ -166,7 +176,7 @@ Kalus je město kouzel. A koček. Magie je na každém rohu a i ulice můžou v�
 Systém Cats of Catthulhu je přizpůsobený hraní za kočky v lidském světě a kvůli rolím koček je ideální, aby hrálo právě pět hráčů. Pravidla jsou jednoduchá a neobsahují žádnou matematiku! (Kočky neumějí počítat.) Postavy vytvoříme na místě. Prosím, přineste si vlastní tužky.</annotation>
     <start-time>2025-10-11T09:00:00+02:00</start-time>
     <end-time>2025-10-11T13:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Cats of Catthulhu</type>
     <location>Salon 1</location>
   </programme>
   <programme>
@@ -180,7 +190,7 @@ Alien RPG je svět plný hororu a korporátních šarvátek, kde si androidi hra
 Vhodné pro nováčky. Znalost pravidel není nutná. Angličtina výhodou (některé věci budou anglicky). Hodí se mít zásobu šestistěnných kostek, ale není nutná. Jedná se o dobrodružství ze základní příručky. Pozor! Hra může být konfliktní i mezi hráči.</annotation>
     <start-time>2025-10-11T09:00:00+02:00</start-time>
     <end-time>2025-10-11T13:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Alien RPG</type>
     <location>Salon 2</location>
   </programme>
   <programme>
@@ -191,7 +201,7 @@ Vhodné pro nováčky. Znalost pravidel není nutná. Angličtina výhodou (něk
 Na začátku si vyberete za koho budete chtít hrát, kde začnete a co bude vaším úkolem. Zbytek už bude na nás všech....komedie zaručena.</annotation>
     <start-time>2025-10-11T09:00:00+02:00</start-time>
     <end-time>2025-10-11T13:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>GRIMWILD</type>
     <location>Sklep</location>
   </programme>
   <programme>
@@ -203,7 +213,7 @@ Na začátku si vyberete za koho budete chtít hrát, kde začnete a co bude va�
 Vžijete se do předpřipravených archetypů akčních hrdinů. Budete bojovat proti přesile s plánem, který musí zákonně selhat. Jenže to je přesně to, s čím tenhle systém počítá. Protože to, že stojíte proti přesile, ještě vůbec neznamená, že oni jsou ti, co mají navrch. Poznejte svět akčních blockbusterů od oceňovaného studia Two little mice. Systém jako takový není třeba znát. Vše si představíme na místě.</annotation>
     <start-time>2025-10-11T09:00:00+02:00</start-time>
     <end-time>2025-10-11T13:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Outgunned</type>
     <location>Šatna</location>
   </programme>
   <programme>
@@ -213,7 +223,7 @@ Vžijete se do předpřipravených archetypů akčních hrdinů. Budete bojovat 
     <annotation>Ve městě Lunaria nikdy neutichá ruch – světla, hudba a smích zní ulicemi dlouho po půlnoci. Cirkus je zde zákonem, zábava náboženstvím a masky běžnou součástí života. Třpyt, magie i šílenství se tu mísí v představeních, která dokážou okouzlit, rozesmát i probudit v nás ty nejtemnější touhy. A právě zde začíná váš příběh. Dcera bohatého obchodníka zmizela beze stopy. Stráže jen krčí rameny – „lidé se prostě ztrácejí.“ Najděte ji dřív, než už nebude… sama sebou.</annotation>
     <start-time>2025-10-11T09:00:00+02:00</start-time>
     <end-time>2025-10-11T13:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Svitky Hrdinů</type>
     <location>Zbrojírna</location>
   </programme>
   <programme>
@@ -227,7 +237,7 @@ Kdo budou hybatelé děje v soustavě Sparetan? Jak se postaví nadcházející 
 Pravidla i svět bude vysvětlen na hře. Neznalost Warhammeru 40.000 není na závadu – některé postavy se spoléhají víc na své rádce než na vlastní vědomosti. Základ postav je připraven, budete si je ale moci doladit dle svých představ a dokonce během hry dostanete i nové schopnosti. Hraje se v mém Powered by the Apocalypse vytvořeném pro potřeby WH40K.</annotation>
     <start-time>2025-10-11T09:00:00+02:00</start-time>
     <end-time>2025-10-11T13:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Warhammer 40K</type>
     <location>Pracovna</location>
   </programme>
   <programme>
@@ -239,7 +249,7 @@ Vy jste Probuzené kočky, juniorní agenti Pařížské rady. A dostali jste p�
 Systém Cats! The Conspurracy je vytvořen speciálně pro hraní koček-agentů. Vašimi protivníky může být kdokoliv - od divokých zvířat, přes lidi až po konkurenční agenty. A můžete potkat i zdivočelý vysavač! Postavy budou předpřipravené.</annotation>
     <start-time>2025-10-11T14:00:00+02:00</start-time>
     <end-time>2025-10-11T18:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Cats! The Conspurracy</type>
     <location>Salon 1</location>
   </programme>
   <programme>
@@ -249,7 +259,7 @@ Systém Cats! The Conspurracy je vytvořen speciálně pro hraní koček-agentů
     <annotation>Moře zpívá, když svět ztichne. Ne každý ten hlas zaslechne, ale ti, kdo ano, už nikdy nezapomenou. Říká se, že hluboko pod hladinou leží město jménem Perlorod. Město, které se před staletími ponořilo do oceánu, aby uniklo válce. Město, které teď volá o pomoc.</annotation>
     <start-time>2025-10-11T14:00:00+02:00</start-time>
     <end-time>2025-10-11T18:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Dungeons and Dragons</type>
     <location>Salon 2</location>
   </programme>
   <programme>
@@ -261,17 +271,17 @@ Najděte Andyho, ať dá o sobě matce ihned vědět, je strachem bez sebe. Snad
 Postavy hráčských postav - vyšetřovatelů vytvoříme na místě.</annotation>
     <start-time>2025-10-11T14:00:00+02:00</start-time>
     <end-time>2025-10-11T18:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Esoterrorists</type>
     <location>Sklep</location>
   </programme>
   <programme>
     <pid>16</pid>
     <author>GorSilverarm</author>
-    <title>The Marvelous Children of Inang-Uri</title>
+    <title>Zázračné děti Inang-Uri</title>
     <annotation>Svět uzřel neskutečný pohled, po jeho povrchu kráčela obrovská chiméra známá jako Inang-Uri. Na jejím hřbetě se zrodila fantastická civilizace. Jenže jak čas plynul, začala umírat a události, které světem otřásaly, jen urychlovaly její skon. Právě ti, co žili na jejím hřebě, se jí musí pokusit zachránit. Pokud však zrádci v jejich řadách naopak neurychlí její skon.</annotation>
     <start-time>2025-10-11T14:00:00+02:00</start-time>
     <end-time>2025-10-11T18:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>The Marvelous Children of Inang-Uri</type>
     <location>Šatna</location>
   </programme>
   <programme>
@@ -281,7 +291,7 @@ Postavy hráčských postav - vyšetřovatelů vytvoříme na místě.</annotati
     <annotation>Čeká vás výprava do místa, které je stejně nádherné jako děsivé. Les obřích hub skrývá podivuhodné tvory, znepokojivá tajemství i stopy po dávných pokusech pochopit a ovládnout přírodu. Každý krok vás zavede hlouběji – k fascinujícímu ekosystému, který si možná zaslouží přežít. Ale za jakou cenu? A komu tím ublížíte?</annotation>
     <start-time>2025-10-11T14:00:00+02:00</start-time>
     <end-time>2025-10-11T18:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Svitky Hrdinů</type>
     <location>Zbrojírna</location>
   </programme>
   <programme>
@@ -291,7 +301,7 @@ Postavy hráčských postav - vyšetřovatelů vytvoříme na místě.</annotati
     <annotation>Chcete být slavní Edgerunneři? Dostat se do Záhrobí? Jak je libo – ale nejdřív musíte ukázat, že si to zasloužíte. Rogue vás najme na jeden run: dostat se ke Slicově střižně, která je dobře zabezpečená, a získat jeho archiv BDček. Nebude to ale snadné, musíte si najít vlastní způsob, jak uspět. Slice je sice arogantní a rád paří, ale zároveň velmi nedůvěřivý a smrtelně nebezpečný. Ví totiž, že po něm někdo může jít – a je připraven bránit se všemi prostředky.</annotation>
     <start-time>2025-10-11T14:00:00+02:00</start-time>
     <end-time>2025-10-11T18:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Cyberpunk Red</type>
     <location>Pracovna</location>
   </programme>
   <programme>
@@ -301,7 +311,7 @@ Postavy hráčských postav - vyšetřovatelů vytvoříme na místě.</annotati
     <annotation>Pirate Borg je temná fantasy pirátská hra v alternativní historii Karibiku. Pokud jste si někdy chtěli zahrát hru Piráti z Karibiku, tohle je systém, který je přesně pro vás. D20 systém Pirate Borg je reimaginace původní fantasy hry Mörk:Borg do pirátského prostředí. Brut, darebák, bukanéř, šermíř, kněz-fanatik, čaroděj a další pokrývají široké spektrum archetypů.</annotation>
     <start-time>2025-10-11T19:00:00+02:00</start-time>
     <end-time>2025-10-11T23:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Pirate Borg</type>
     <location>Salon 1</location>
   </programme>
   <programme>
@@ -313,21 +323,18 @@ Postavy hráčských postav - vyšetřovatelů vytvoříme na místě.</annotati
 Zdrojem této katastrofy je tajná výzkumná základna pod městem – Nexus Labs. Tam se údajně zkoumaly artefakty neznámého původu. A právě jeden z nich, označovaný jako Apary 9000, způsobil protržení reality.</annotation>
     <start-time>2025-10-11T19:00:00+02:00</start-time>
     <end-time>2025-10-11T23:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Dungeons and Dragons</type>
     <location>Salon 2</location>
   </programme>
   <programme>
     <pid>21</pid>
     <author>Rovan</author>
-    <title>Na palubu krysy!</title>
-    <annotation>Jste krysy, jste piráti, jste špína a jste na to pyšní!
-Dávné mapy kanalizace vás dovedly do zcela nových splašek, nová území, nové příležitosti, nové poklady, dokonce možná spojenci, nebo nepřátelé a nebezpečí. 
-Je dobře, že máte skupinu (vybraných) dobrovolníků, kteří budou rádi riskovat svůj život a neohroženě zkoumají neznámé chodby a zákruty stok, připravují vztahy s místními a hledají nezranitelnější místa. 
-Horší je, že se skupina nevrátila a úplně nejhorší je, že jste byli vybráni jako noví dobrovolníci.
-Z připravených krysáků si postavy si rozebere na místě.</annotation>
+    <title>Hostinec Šíleného šenkýře</title>
+    <annotation>Nejjednodušší zakázky vždycky skončí jako ta největší osina v prdeli. Vyřídit reklamaci v hostinci říkali... bude to sranda, říkal, však na to máš celý týden... ale nikdo kruci neřekl, že se ta hospoda rozkládá na několika sférách existence, má tisíce čtverečních mil a čekačka na vstup je někdy mezi 5 a 10 lety - dostat se dovnitř je asi to nejmenší, ale co pak?
+Hostinec Šíleného šenkýře Funhouse Dungeon Pub Crawl v systému DCC, postavy budou na místě připraveny k výběru. Ve hře se může objevit reálný alkohol.</annotation>
     <start-time>2025-10-11T19:00:00+02:00</start-time>
     <end-time>2025-10-11T23:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Dungeon Crawl Classic</type>
     <location>Sklep</location>
   </programme>
   <programme>
@@ -337,7 +344,7 @@ Z připravených krysáků si postavy si rozebere na místě.</annotation>
     <annotation>Nějakým zázrakem se vaše povedená skupinka gobliních pirátů dostala pod křídla kapitána Blechovouse. Ikdyž nerad, tak vám zadá úkol v hledání částí mapy k pokladu. Nalodíte se tedy na vaši stále se potápějící se loď a vzhůru za dobrodružstvím. Hra bude v systému Dračí Hlídky, postavy jsou předpřipravené.</annotation>
     <start-time>2025-10-11T19:00:00+02:00</start-time>
     <end-time>2025-10-11T23:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Dračí Hlídka</type>
     <location>Šatna</location>
   </programme>
   <programme>
@@ -347,7 +354,7 @@ Z připravených krysáků si postavy si rozebere na místě.</annotation>
     <annotation>Za branou říše vílí kněžny voní vzduch sliby a květy, ale každý krok je zkouškou. Divoká magie mění tvé okolí i tebe samotného. Cesta vede přes záludné pasti, proradné impy, hádanky a volby, kde snadná cesta vždy skrývá vysokou cenu. Odměny jsou lákavé – moc, krása, přízeň samotné paní – ale kdo ví, kým budeš, až z jejího dvora vyjdeš?</annotation>
     <start-time>2025-10-11T19:00:00+02:00</start-time>
     <end-time>2025-10-11T23:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Svitky Hrdinů</type>
     <location>Zbrojírna</location>
   </programme>
   <programme>
@@ -357,7 +364,7 @@ Z připravených krysáků si postavy si rozebere na místě.</annotation>
     <annotation>Proč se čtyři členové anglického okultního spolku rozhodli projet USA ve svém autě? To vlastně není ta nejdůležitější otázka. Mnohem důležitější je, co je tohle sakra za zapadákov, proč jeho obyvatelé vypadají jako z komparzu filmu Kult hákového kříže, proč mrtví vstávají z hrobů a proč má ten chlápek rohy.</annotation>
     <start-time>2025-10-11T19:00:00+02:00</start-time>
     <end-time>2025-10-11T23:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>FATE</type>
     <location>Pracovna</location>
   </programme>
   <programme>
@@ -371,7 +378,7 @@ Na leteckou základnu Platte uprostřed Nebrasky Vás neposílají za odměnu. P
 Ať tak nebo tak, jste zde – a Vaše kariéra zhasla jako svíčka. Jediná věc, na kterou se můžete těšit, je společenský večer na základně, kde se sejdete a zahrajete s ostatními poker. A ten večer je dnes…</annotation>
     <start-time>2025-10-12T09:00:00+02:00</start-time>
     <end-time>2025-10-12T13:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Delta Green</type>
     <location>Salon 1</location>
   </programme>
   <programme>
@@ -383,7 +390,7 @@ Ať tak nebo tak, jste zde – a Vaše kariéra zhasla jako svíčka. Jediná v�
 Tábory, kde drží lidi ovlivněné magií, otevřely své brány, aby odvezli k Pustině skupinu nepravděpodobných spojenců. Vyšlou je dovnitř jako poslední šanci zastavit pohromu. Slíbili jim za to volnost. Taková nabídka se přece neodmítá, i když jde o jasně sebevražednou misi. Jenže dost možná některým z nich jde o úplně něco jiného.</annotation>
     <start-time>2025-10-12T09:00:00+02:00</start-time>
     <end-time>2025-10-12T13:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Legend in the Mist</type>
     <location>Šatna</location>
   </programme>
   <programme>
@@ -395,7 +402,7 @@ myší království si žádá tvých služeb. V některých našich zásobárn�
 Tvůj nástup očekáváme zítra za rozbřesku před králičí branou.</annotation>
     <start-time>2025-10-12T09:00:00+02:00</start-time>
     <end-time>2025-10-12T13:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Mausritter</type>
     <location>Zbrojírna</location>
   </programme>
   <programme>
@@ -411,7 +418,7 @@ Dobrodružství v My Little Pony: Tails of Equestria je podle jednoduchých prav
 Pozor! Jsi-li dívka ve věku 5-10 let, nebo chlapec ve věku 15-35 let, tak poníci jsou vysoce návykoví!</annotation>
     <start-time>2025-10-12T09:00:00+02:00</start-time>
     <end-time>2025-10-12T13:00:00+02:00</end-time>
-    <type>Hraní</type>
+    <type>Tails of Equestria</type>
     <location>Pracovna</location>
   </programme>
 </annotations>
