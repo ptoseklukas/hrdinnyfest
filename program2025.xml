@@ -63,7 +63,7 @@ Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete
     <annotation>Představení systému Savage Worlds, který lze snadno přizpůsobit různým žánrům i herním stylům. Projdeme úvod do základních mechanik, krátké shrnutí historie, příklady zajímavých vydaných světů s vysvětlením, jak se jim systém přizpůsobuje, aby každý působil osobitým dojmem. Pokud je cílem hra s mírou realismu srovnatelnou s dobrodružným či akčním filmem, Savage Worlds je výborná volba. Zároveň systém podporuje jak narativní přístup, tak i taktické souboje.</annotation>
     <start-time>2025-10-11T16:00:00+02:00</start-time>
     <end-time>2025-10-11T17:00:00+02:00</end-time>
-    <type />
+    <type>P</type>
     <location>Hlavní sál</location>
   </programme>
   <programme>
@@ -78,6 +78,16 @@ V druhé části si v praxi s bezpečnými, ač realistickými pomůckami si ote
 
 Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete, leda poznámkář."</annotation>
     <start-time>2025-10-11T18:00:00+02:00</start-time>
+    <end-time>2025-10-11T18:55:00+02:00</end-time>
+    <type>P</type>
+    <location>Hlavní sál</location>
+  </programme>
+  <programme>
+    <pid>97</pid>
+    <author>Všichni</author>
+    <title>Společné focení</title>
+    <annotation>Přijďte se s námi vyfotit a stát se součástí jedinečného snímku, který zachytí atmosféru a neopakovatelný okamžik tohoto festivalu.</annotation>
+    <start-time>2025-10-11T18:55:00+02:00</start-time>
     <end-time>2025-10-11T19:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
