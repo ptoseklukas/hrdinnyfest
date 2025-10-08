@@ -77,8 +77,8 @@ V druhé části si v praxi s bezpečnými, ač realistickými pomůckami si ote
 „Když kryje, tak v poslední chvíli přetočím ostří kolem krytu a bodnu rapírem do žaludku!“ prohlásil mistr šermíř Salvatore von Picham.
 
 Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete, leda poznámkář."</annotation>
-    <start-time>2025-10-11T18:00:00+02:00</start-time>
-    <end-time>2025-10-11T18:55:00+02:00</end-time>
+    <start-time>2025-10-11T17:45:00+02:00</start-time>
+    <end-time>2025-10-11T18:45:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
   </programme>
@@ -87,7 +87,7 @@ Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete
     <author>Všichni</author>
     <title>Společné focení</title>
     <annotation>Přijďte se s námi vyfotit a stát se součástí jedinečného snímku, který zachytí atmosféru a neopakovatelný okamžik tohoto festivalu.</annotation>
-    <start-time>2025-10-11T18:55:00+02:00</start-time>
+    <start-time>2025-10-11T18:45:00+02:00</start-time>
     <end-time>2025-10-11T19:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
@@ -116,7 +116,7 @@ Hráči se ujímají rolí lovců monster, inkvizitorů, podivínských vědců,
     <start-time>2025-10-10T18:00:00+02:00</start-time>
     <end-time>2025-10-10T22:00:00+02:00</end-time>
     <type>Black Powder and Brimstone</type>
-    <location>Salon 1</location>
+    <location>Pracovna</location>
   </programme>
   <programme>
     <pid>2</pid>
@@ -126,7 +126,7 @@ Hráči se ujímají rolí lovců monster, inkvizitorů, podivínských vědců,
     <start-time>2025-10-10T18:00:00+02:00</start-time>
     <end-time>2025-10-10T22:00:00+02:00</end-time>
     <type>Household</type>
-    <location>Salon 2</location>
+    <location>Salon 1</location>
   </programme>
   <programme>
     <pid>3</pid>
@@ -138,22 +138,6 @@ Je dobře, že máte skupinu (vybraných) dobrovolníků, kteří budou rádi ri
     <end-time>2025-10-10T22:00:00+02:00</end-time>
     <type>FATE</type>
     <location>Sklep</location>
-  </programme>
-  <programme>
-    <pid>4</pid>
-    <author>Sniper</author>
-    <title>Hlubina</title>
-    <annotation>Hlubina. Adamantiový důl, kovárna a sídlo trpaslíků. Nyní místo z legend, odkud vzešly zbraně a zbroje hrdinů.
-
-Znovu získat hlubinu, o tom se sní celým generacím. A vy nyní máte možnost... až teda na to že jste se sem dostali na útěku, pronásledování Podtemnem smečkou démonů...
-
-Což takhle si zahrát klasické podzemní dobrodružství – o velkých pokladech, nebezpečných nepřátelích, zákeřných pastech a odhalování ztracené historie? I když jste démony na chvíli zastavili, máte jen omezený čas na průzkum starého dolu a cesty pryč k přežití.
-
-Systém je zjednodušené DnD 5e (původní) a vše nezbytné bude vysvětleno v rámci hry když bude třeba (nebojte se přihlásit, i pokud DnD neznáte). Postavy jsou předpřipravené.</annotation>
-    <start-time>2025-10-10T18:00:00+02:00</start-time>
-    <end-time>2025-10-10T22:00:00+02:00</end-time>
-    <type>Dungeons and Dragons</type>
-    <location>Šatna</location>
   </programme>
   <programme>
     <pid>5</pid>
@@ -190,20 +174,6 @@ Systém Cats of Catthulhu je přizpůsobený hraní za kočky v lidském světě
     <location>Salon 1</location>
   </programme>
   <programme>
-    <pid>8</pid>
-    <author>Mrkew</author>
-    <title>Poslední den na Hadley's Hope</title>
-    <annotation>Vystoupíte z přechodové komory na stanici Hadley’s Hope na měsíci LV-426. Je tu naprosté ticho, chybí hukot strojů a šepot obyvatel. Něco tu však JE… Ale co?
-
-Alien RPG je svět plný hororu a korporátních šarvátek, kde si androidi hrají na bohy, zatímco vesmírní kamioňáci a mariňáci hostí nově narozené děsivé bytosti. Je to drsný a nelítostný vesmír a vy nejste nic jiného než postradatelní. Pravidla jsou postavena na Year Zero systému, použitém například v Zapovězených zemích. Postavy budou připraveny předem.
-
-Vhodné pro nováčky. Znalost pravidel není nutná. Angličtina výhodou (některé věci budou anglicky). Hodí se mít zásobu šestistěnných kostek, ale není nutná. Jedná se o dobrodružství ze základní příručky. Pozor! Hra může být konfliktní i mezi hráči.</annotation>
-    <start-time>2025-10-11T09:00:00+02:00</start-time>
-    <end-time>2025-10-11T13:00:00+02:00</end-time>
-    <type>Alien RPG</type>
-    <location>Salon 2</location>
-  </programme>
-  <programme>
     <pid>9</pid>
     <author>Želvák</author>
     <title>Improvizační peklo</title>
@@ -235,20 +205,6 @@ Vžijete se do předpřipravených archetypů akčních hrdinů. Budete bojovat 
     <end-time>2025-10-11T13:00:00+02:00</end-time>
     <type>Svitky Hrdinů</type>
     <location>Zbrojírna</location>
-  </programme>
-  <programme>
-    <pid>12</pid>
-    <author>Sniper</author>
-    <title>WH40K: Příchod zkázy</title>
-    <annotation>Hvězdná soustava Sparetan má svých potíží dost – kult boha chaosu Nurgleho byl sice odhalen před dokončením velkého rituálu, ale rozhodně se jen tak nevzdá. V hlavním městě probíhají těžké boje a velitel planetární obrany má co dělat, aby udržel morálka svých vojáků. V audienční síni místního guvernéra je ale ticho – které je přerušeno kroky přicházejícího psykera. Modulovaným hlasem z vox-projektoru na své masce pronáší věštbu o přicházející zkáza – proti které je místní kult chaosu jen dětskou hříčkou.
-
-Kdo budou hybatelé děje v soustavě Sparetan? Jak se postaví nadcházející katastrofě? RPG za bandu dobrodruhů už bylo tuny, pojďte si raději zahrát hry mocných! Ať za guvernéra řídícího celou planetární obranu, orčího kapitána, kterému posádka dorůstá jak houby (doslova!) po dešti, eldařího černokněžníka na tajné misi či další významné osoby.
-
-Pravidla i svět bude vysvětlen na hře. Neznalost Warhammeru 40.000 není na závadu – některé postavy se spoléhají víc na své rádce než na vlastní vědomosti. Základ postav je připraven, budete si je ale moci doladit dle svých představ a dokonce během hry dostanete i nové schopnosti. Hraje se v mém Powered by the Apocalypse vytvořeném pro potřeby WH40K.</annotation>
-    <start-time>2025-10-11T09:00:00+02:00</start-time>
-    <end-time>2025-10-11T13:00:00+02:00</end-time>
-    <type>Warhammer 40K</type>
-    <location>Pracovna</location>
   </programme>
   <programme>
     <pid>13</pid>
@@ -414,22 +370,6 @@ Tvůj nástup očekáváme zítra za rozbřesku před králičí branou.</annota
     <end-time>2025-10-12T13:00:00+02:00</end-time>
     <type>Mausritter</type>
     <location>Zbrojírna</location>
-  </programme>
-  <programme>
-    <pid>30</pid>
-    <author>Sniper</author>
-    <title>Neklid v Klidném</title>
-    <annotation>Obchodníci vracející se z vesnice Klidné říkají, že by se měla přejmenovat na Nenávistné. Co se ve vesnici stalo, že se tak změnila?
-
-Farmářská vesnice Klidné je krásným místem pro život. Vyrážíte do ní zkontrolovat domek, co si zde koupil kamarád. Ale ve skutečnosti je to od něj vlastně dárek, máte si zde užít týden klidné dovolené. Jenže vesnice skrývá víc překvapení, než čekáte. Opravdu by si zasložila jméno Nenávistné, nebo obchodníci jen fabulují, aby upoutali pozornost?
-
-Dobrodružství v My Little Pony: Tails of Equestria je podle jednoduchých pravidel, která se snadno vysvětlí přímo ve hře. Na začátku se vytvoří (a namaluje!) postava poníka a následně se s ním vrhneme přímo do příběhu. Je možné si přinést postavu poníka z předchozích her, pokud jste již někde hráli.
-
-Pozor! Jsi-li dívka ve věku 5-10 let, nebo chlapec ve věku 15-35 let, tak poníci jsou vysoce návykoví!</annotation>
-    <start-time>2025-10-12T09:00:00+02:00</start-time>
-    <end-time>2025-10-12T13:00:00+02:00</end-time>
-    <type>Tails of Equestria</type>
-    <location>Pracovna</location>
   </programme>
 </annotations>
 
