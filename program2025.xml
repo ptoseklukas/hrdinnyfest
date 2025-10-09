@@ -6,6 +6,26 @@
     <title>Čajovna - jídlo a pití</title>
     <annotation>Dejte si skvělý čaj a něco dobrého k jídlu. Zahrajte si rychlé a zábavné deskovky, nebo se zapojte do soutěže o parádní ceny!</annotation>
     <start-time>2025-10-10T18:00:00+02:00</start-time>
+    <end-time>2025-10-10T22:00:00+02:00</end-time>
+    <type>Čajovna</type>
+    <location>Zahrada</location>
+  </programme>
+  <programme>
+    <pid>9991</pid>
+    <author>Smoke Hill</author>
+    <title>Čajovna - jídlo a pití</title>
+    <annotation>Dejte si skvělý čaj a něco dobrého k jídlu. Zahrajte si rychlé a zábavné deskovky, nebo se zapojte do soutěže o parádní ceny!</annotation>
+    <start-time>2025-10-11T09:00:00+02:00</start-time>
+    <end-time>2025-10-11T23:00:00+02:00</end-time>
+    <type>Čajovna</type>
+    <location>Zahrada</location>
+  </programme>
+  <programme>
+    <pid>9992</pid>
+    <author>Smoke Hill</author>
+    <title>Čajovna - jídlo a pití</title>
+    <annotation>Dejte si skvělý čaj a něco dobrého k jídlu. Zahrajte si rychlé a zábavné deskovky, nebo se zapojte do soutěže o parádní ceny!</annotation>
+    <start-time>2025-10-12T18:00:00+02:00</start-time>
     <end-time>2025-10-12T13:00:00+02:00</end-time>
     <type>Čajovna</type>
     <location>Zahrada</location>
@@ -15,8 +35,8 @@
     <author>Rovan</author>
     <title>Lenochův průvodce worldbuildingem</title>
     <annotation>Přednáška se zaměřuje se na praktické způsoby, jak tvořit a popisovat herní svět tak, aby byl živý, uvěřitelný a přitom šitý na míru konkrétní skupině hráčů. Ukážeme si, jak svět spoluutvářet společně s hráči, jak rozdělit vedení mezi více vypravěčů bez chaosu, a jak si udržet přehled i bez kilometrů zápisků. Přednáška nabídne tipy, jak si práci zjednodušit, jak se vyhnout vyhoření a jak zůstat tvůrčím, i když jste spíš líní než systematičtí.</annotation>
-    <start-time>2025-10-11T10:00:00+02:00</start-time>
-    <end-time>2025-10-11T12:00:00+02:00</end-time>
+    <start-time>2025-10-11T09:00:00+02:00</start-time>
+    <end-time>2025-10-12T12:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
   </programme>
