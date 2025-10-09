@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <annotations>
   <programme>
+    <pid>999</pid>
+    <author>Smoke Hill</author>
+    <title>Čajovna - jídlo a pití</title>
+    <annotation>Dejte si skvělý čaj a něco dobrého k jídlu. Zahrajte si rychlé a zábavné deskovky, nebo se zapojte do soutěže o parádní ceny!</annotation>
+    <start-time>2025-10-10T18:00:00+02:00</start-time>
+    <end-time>2025-10-12T13:00:00+02:00</end-time>
+    <type>Čajovna</type>
+    <location>Zahrada</location>
+  </programme>
+  <programme>
     <pid>91</pid>
     <author>Rovan</author>
     <title>Lenochův průvodce worldbuildingem</title>
@@ -77,20 +87,20 @@ V druhé části si v praxi s bezpečnými, ač realistickými pomůckami si ote
 „Když kryje, tak v poslední chvíli přetočím ostří kolem krytu a bodnu rapírem do žaludku!“ prohlásil mistr šermíř Salvatore von Picham.
 
 Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete, leda poznámkář."</annotation>
-    <start-time>2025-10-11T17:45:00+02:00</start-time>
-    <end-time>2025-10-11T18:45:00+02:00</end-time>
+    <start-time>2025-10-11T18:00:00+02:00</start-time>
+    <end-time>2025-10-11T19:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
   </programme>
   <programme>
     <pid>97</pid>
     <author>Všichni</author>
-    <title>Společné focení</title>
-    <annotation>Přijďte se s námi vyfotit a stát se součástí jedinečného snímku, který zachytí atmosféru a neopakovatelný okamžik tohoto festivalu.</annotation>
-    <start-time>2025-10-11T18:45:00+02:00</start-time>
+    <title>Společná fotka v hlavním sále</title>
+    <annotation>Přijďte se s námi vyfotit a stát se součástí jedinečného snímku, který zachytí atmosféru a neopakovatelný okamžik tohoto festivalu. Focení proběhne kolem 19 hodiny po přednášce a před všemi hry večer. Zabere to jen pár minut.</annotation>
+    <start-time>2025-10-11T18:40:00+02:00</start-time>
     <end-time>2025-10-11T19:00:00+02:00</end-time>
     <type>P</type>
-    <location>Hlavní sál</location>
+    <location>Pracovna</location>
   </programme>
   <programme>
     <pid>99</pid>
@@ -116,7 +126,7 @@ Hráči se ujímají rolí lovců monster, inkvizitorů, podivínských vědců,
     <start-time>2025-10-10T18:00:00+02:00</start-time>
     <end-time>2025-10-10T22:00:00+02:00</end-time>
     <type>Black Powder and Brimstone</type>
-    <location>Pracovna</location>
+    <location>Šatna</location>
   </programme>
   <programme>
     <pid>2</pid>
