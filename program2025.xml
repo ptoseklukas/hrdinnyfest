@@ -11,7 +11,7 @@
     <location>Zahrada</location>
   </programme>
   <programme>
-    <pid>9991</pid>
+    <pid>998</pid>
     <author>Smoke Hill</author>
     <title>Čajovna - jídlo a pití</title>
     <annotation>Dejte si skvělý čaj a něco dobrého k jídlu. Zahrajte si rychlé a zábavné deskovky, nebo se zapojte do soutěže o parádní ceny!</annotation>
@@ -21,11 +21,11 @@
     <location>Zahrada</location>
   </programme>
   <programme>
-    <pid>9992</pid>
+    <pid>997</pid>
     <author>Smoke Hill</author>
     <title>Čajovna - jídlo a pití</title>
     <annotation>Dejte si skvělý čaj a něco dobrého k jídlu. Zahrajte si rychlé a zábavné deskovky, nebo se zapojte do soutěže o parádní ceny!</annotation>
-    <start-time>2025-10-12T18:00:00+02:00</start-time>
+    <start-time>2025-10-12T09:00:00+02:00</start-time>
     <end-time>2025-10-12T13:00:00+02:00</end-time>
     <type>Čajovna</type>
     <location>Zahrada</location>
