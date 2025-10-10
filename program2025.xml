@@ -31,10 +31,10 @@
     <location>Hlavní sál</location>
   </programme>
   <programme>
-    <pid>92</pid>
-    <author>Kybersova</author>
-    <title>AI kyberpunk a realita</title>
-    <annotation>Umělá inteligence, je nedílným aspektem kyberpunkového žánru, Jak si AI představovali velikáni jako William Gibson, Neal Stephenson, nebo Bruce Sterling. Na kolik se liší od té, se kterou se sektáváme dnes? A máme se umělé inteligence bát? Ovládne nás?</annotation>
+    <pid>96</pid>
+    <author>Jetty</author>
+    <title>Savage Worlds: systém pro (téměř) jakýkoli svět</title>
+    <annotation>Představení systému Savage Worlds, který lze snadno přizpůsobit různým žánrům i herním stylům. Projdeme úvod do základních mechanik, krátké shrnutí historie, příklady zajímavých vydaných světů s vysvětlením, jak se jim systém přizpůsobuje, aby každý působil osobitým dojmem. Pokud je cílem hra s mírou realismu srovnatelnou s dobrodružným či akčním filmem, Savage Worlds je výborná volba. Zároveň systém podporuje jak narativní přístup, tak i taktické souboje.</annotation>
     <start-time>2025-10-11T12:00:00+02:00</start-time>
     <end-time>2025-10-11T13:00:00+02:00</end-time>
     <type>P</type>
@@ -73,16 +73,6 @@ Jednoduché, fungující, dramatické a zábavné! K účasti nic nepotřebujete
     <annotation>Nostalgie nám často našeptává, že „za starých časů“ byly hry zábavnější, originálnější a upřímnější. Ale je to skutečně pravda, nebo jen kouzlo vzpomínek? V přednášce se podíváme na proměnu videoher od jejich začátků až po současnost – od technologií a designu po hráčské zážitky – a zkusíme odpovědět na otázku, zda hry opravdu ztratily své kouzlo, nebo se jen vyvíjejí spolu s námi.</annotation>
     <start-time>2025-10-11T15:00:00+02:00</start-time>
     <end-time>2025-10-11T16:00:00+02:00</end-time>
-    <type>P</type>
-    <location>Hlavní sál</location>
-  </programme>
-  <programme>
-    <pid>96</pid>
-    <author>Jetty</author>
-    <title>Savage Worlds: systém pro (téměř) jakýkoli svět</title>
-    <annotation>Představení systému Savage Worlds, který lze snadno přizpůsobit různým žánrům i herním stylům. Projdeme úvod do základních mechanik, krátké shrnutí historie, příklady zajímavých vydaných světů s vysvětlením, jak se jim systém přizpůsobuje, aby každý působil osobitým dojmem. Pokud je cílem hra s mírou realismu srovnatelnou s dobrodružným či akčním filmem, Savage Worlds je výborná volba. Zároveň systém podporuje jak narativní přístup, tak i taktické souboje.</annotation>
-    <start-time>2025-10-11T16:00:00+02:00</start-time>
-    <end-time>2025-10-11T17:00:00+02:00</end-time>
     <type>P</type>
     <location>Hlavní sál</location>
   </programme>
@@ -171,12 +161,12 @@ Je dobře, že máte skupinu (vybraných) dobrovolníků, kteří budou rádi ri
   </programme>
   <programme>
     <pid>6</pid>
-    <author>Kybersova</author>
-    <title>Cyberpunk 2077: Mexický Tarrot</title>
-    <annotation>Night City je lákadlem pro mnohé – a stejně tak pro vás, Edgerunnery, kteří chtějí zazářit a stát se hvězdnými žoldnéři. Nejdřív si ale musíte proklestit cestu skrze pouliční kšefty. Tenhle job má být snadný: dostat holku v nesnázích pryč z města dřív, než ji sejme jeden hodně zlý chlápek.</annotation>
+    <author>Mrkew</author>
+    <title>Poslední den na Hadley's Hope</title>
+    <annotation>Všichni vystoupíte z přechodové komory na stanici Hadley’s Hope na měsíci LV-426. Je tu naprosté ticho, chybí tu hukot strojů a šepot obyvatel. Něco tu JE… ale co?</annotation>
     <start-time>2025-10-10T18:00:00+02:00</start-time>
     <end-time>2025-10-10T22:00:00+02:00</end-time>
-    <type>Cyberpunk Red</type>
+    <type>Alien RPG</type>
     <location>Pracovna</location>
   </programme>
   <programme>
@@ -282,22 +272,22 @@ Postavy hráčských postav - vyšetřovatelů vytvoříme na místě.</annotati
   </programme>
   <programme>
     <pid>18</pid>
-    <author>Kybersova</author>
+    <author>Jetty</author>
     <title>Cyberpunk 2077: Zlatý edit</title>
     <annotation>Chcete být slavní Edgerunneři? Dostat se do Záhrobí? Jak je libo – ale nejdřív musíte ukázat, že si to zasloužíte. Rogue vás najme na jeden run: dostat se ke Slicově střižně, která je dobře zabezpečená, a získat jeho archiv BDček. Nebude to ale snadné, musíte si najít vlastní způsob, jak uspět. Slice je sice arogantní a rád paří, ale zároveň velmi nedůvěřivý a smrtelně nebezpečný. Ví totiž, že po něm někdo může jít – a je připraven bránit se všemi prostředky.</annotation>
     <start-time>2025-10-11T14:00:00+02:00</start-time>
     <end-time>2025-10-11T18:00:00+02:00</end-time>
-    <type>Cyberpunk Red</type>
+    <type>Savage World</type>
     <location>Pracovna</location>
   </programme>
   <programme>
     <pid>19</pid>
-    <author>Kolumbus</author>
-    <title>Výprava za červím rumem</title>
-    <annotation>Pirate Borg je temná fantasy pirátská hra v alternativní historii Karibiku. Pokud jste si někdy chtěli zahrát hru Piráti z Karibiku, tohle je systém, který je přesně pro vás. D20 systém Pirate Borg je reimaginace původní fantasy hry Mörk:Borg do pirátského prostředí. Brut, darebák, bukanéř, šermíř, kněz-fanatik, čaroděj a další pokrývají široké spektrum archetypů.</annotation>
+    <author>Sarsaparillos</author>
+    <title>Dungeons &amp; Babysitters</title>
+    <annotation>Princ Olaf se zamiloval do princezny Trudy a rozhodl se ji požádat o ruku tím jediným způsobem, který připadá v úvahu - pouze v doprovodu svého osobního barda vlézt do podzemí, hrdinsky ho vymlátit a vytáhnout z něj poklad pro svou milovanou. Olafova hyperprotektivní matka, královna, ale o schopnostech svého synka celkem oprávněně pochybuje. A proto najala družinu levných dobrodruhů, kteří mají za úkol do podzemí vlézt ještě před princem a zařídit, aby Olaf výpravu přežil a měl pocit, že to zvládl sám a ruku Trudy si zaslouží.</annotation>
     <start-time>2025-10-11T19:00:00+02:00</start-time>
     <end-time>2025-10-11T23:00:00+02:00</end-time>
-    <type>Pirate Borg</type>
+    <type>BitD d6 hack</type>
     <location>Salon 1</location>
   </programme>
   <programme>
@@ -345,12 +335,12 @@ Hostinec Šíleného šenkýře Funhouse Dungeon Pub Crawl v systému DCC, posta
   </programme>
   <programme>
     <pid>24</pid>
-    <author>Kybersova</author>
-    <title>Hellbrazer: Sympathy for the devil</title>
+    <author>Karel Doleček</author>
+    <title>Běžný den v kanceláři</title>
     <annotation>Proč se čtyři členové anglického okultního spolku rozhodli projet USA ve svém autě? To vlastně není ta nejdůležitější otázka. Mnohem důležitější je, co je tohle sakra za zapadákov, proč jeho obyvatelé vypadají jako z komparzu filmu Kult hákového kříže, proč mrtví vstávají z hrobů a proč má ten chlápek rohy.</annotation>
     <start-time>2025-10-11T19:00:00+02:00</start-time>
     <end-time>2025-10-11T23:00:00+02:00</end-time>
-    <type>FATE</type>
+    <type>Triangle Agency</type>
     <location>Pracovna</location>
   </programme>
   <programme>
